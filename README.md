@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-https://github.com/user-attachments/assets/f00bc87d-1d47-49e3-b276-ea130c50cc71
+https://github.com/user-attachments/assets/4fbc14f6-edd6-44bc-a1e5-7fa0301118df
 
 
 
